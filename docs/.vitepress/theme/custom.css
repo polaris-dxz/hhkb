@@ -1,0 +1,14 @@
+/* Customize the title style */
+header a.title {
+  white-space: normal;
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-sidebar-width: 300px;
+  }
+  header a.title {
+    white-space: normal;
+    font-size: 14px!important;
+  }
+}

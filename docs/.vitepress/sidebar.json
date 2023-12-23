@@ -1,0 +1,56 @@
+{
+  "/": [
+    {
+      "text": "Introduction",
+      "link": "/"
+    },
+    {
+      "text": "产品介绍",
+      "link": "/production_introduction"
+    },
+    {
+      "text": "HHKB Pro2 安装说明",
+      "link": "/hhkb_pro_2_install"
+    },
+    {
+      "text": "HHKB Pro BT 安装说明",
+      "link": "/hhkb_pro_bt_install"
+    },
+    {
+      "text": "使用说明",
+      "link": "/usage"
+    },
+    {
+      "text": "蓝牙多设备绑定和切换",
+      "link": "/bt_multi_device"
+    },
+    {
+      "text": "使用 Logitech Flow",
+      "link": "/logitech_flow"
+    },
+    {
+      "text": "键位自定义",
+      "link": "/key_custom"
+    },
+    {
+      "text": "其他功能说明",
+      "link": "/other_features"
+    },
+    {
+      "text": "功能快捷键",
+      "link": "/shortcut_keys"
+    },
+    {
+      "text": "固件更新",
+      "link": "/firmware_update"
+    },
+    {
+      "text": "更新记录",
+      "link": "/release_notes"
+    },
+    {
+      "text": "Q&A",
+      "link": "/qa"
+    }
+  ]
+}
